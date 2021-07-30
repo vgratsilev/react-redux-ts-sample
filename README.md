@@ -3,8 +3,9 @@ Simple react project to show how to use React Typescript with Redux.
 
 * Project created with [Create React App](https://github.com/facebook/create-react-app).
 * [Redux](https://github.com/reduxjs/redux).
-* [React Typescript guidelines](https://github.com/typescript-cheatsheets/react)
+* [React Typescript guidelines](https://github.com/typescript-cheatsheets/react).
 * Async actions with [ReduxThunk](https://github.com/reduxjs/redux-thunk).
+* Http Client [Axios](https://github.com/axios/axios).
 * Debugging tool [Redux DevTools Extension](https://github.com/zalmoxisus/redux-devtools-extension).
 
 ## Available Scripts
